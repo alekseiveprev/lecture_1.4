@@ -1,0 +1,3 @@
+Tourist__r.Age__c <= Trip__r.Minimum_Age__c
+
+(TODAY() - Birthdate__c) / 365

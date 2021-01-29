@@ -1,0 +1,5 @@
+Tourist__r.Age__c <= Trip__r.Minimum_Age__c
+
+DATETIMEVALUE(Start_Date__c) < DATETIMEVALUE(TODAY())
+
+(TODAY() - Birthdate__c) / 365
